@@ -1,0 +1,21 @@
+{
+	id: "06f9c04d-2a2f-4e14-b602-280c2bcdc020"
+	type: "party"
+	owner: "6780041f-8ded-3bee-a401-254d0836dbf1"
+	ranks: {
+		6780041f-8ded-3bee-a401-254d0836dbf1: "owner"
+		b7524c86-5ffa-3d15-88ce-ae8fd4753371: "ally"
+	}
+	properties: {
+		"ftbteams:display_name": "Matthewo's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7BFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1727718667295L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Matthewo\"}]}" }
+		{ from: "6780041f-8ded-3bee-a401-254d0836dbf1", date: 1727718679550L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"JohnnieW4lker\"}]}" }
+	]
+	extra: { }
+}

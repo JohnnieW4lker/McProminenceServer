@@ -1,0 +1,15 @@
+{
+	id: "6780041f-8ded-3bee-a401-254d0836dbf1"
+	type: "player"
+	player_name: "Matthewo"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Matthewo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7BFF59"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

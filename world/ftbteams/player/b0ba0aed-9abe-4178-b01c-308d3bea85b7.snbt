@@ -1,0 +1,17 @@
+{
+	id: "b0ba0aed-9abe-4178-b01c-308d3bea85b7"
+	type: "player"
+	player_name: "JohnnieW4lker"
+	ranks: {
+		b0ba0aed-9abe-4178-b01c-308d3bea85b7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "JohnnieW4lker"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF97"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,20 @@
+{
+	id: "3d9b13e3-a4e0-4bb7-8b05-650a64ed4b1c"
+	type: "party"
+	owner: "b7524c86-5ffa-3d15-88ce-ae8fd4753371"
+	ranks: {
+		b7524c86-5ffa-3d15-88ce-ae8fd4753371: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Hovnocuc"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59AC"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1727718588716L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"JohnnieW4lker\"}]}" }
+		{ from: "b7524c86-5ffa-3d15-88ce-ae8fd4753371", date: 1727718627768L, text: "{\"text\":\"/invite\"}" }
+	]
+	extra: { }
+}
